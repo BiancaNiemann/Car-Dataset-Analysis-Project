@@ -1,15 +1,15 @@
 # Car-Dataset-Analysis-Project
 
-🛠️ Tasks
+### 🛠️ Tasks
 1. Data Cleaning
-Handle Missing Data:
-Identify if there are missing values
-Decide how to handle missing data for each column (e.g., fill with appropriate values, drop rows, etc.).
-Data Type Conversion:
-Ensure that columns are of the correct data type for analysis (e.g., ensure that 'Year' is an integer or float).
-Filter Data:
-Filter the dataset to only include cars from the year 1995 and later.
-String Operations:
+- Handle Missing Data:
+  * Identify if there are missing values
+  * Decide how to handle missing data for each column (e.g., fill with appropriate values, drop rows, etc.).
+- Data Type Conversion:
+  * Ensure that columns are of the correct data type for analysis (e.g., ensure that 'Year' is an integer or float).
+- Filter Data:
+  * Filter the dataset to only include cars from the year 1995 and later.
+- String Operations:
 Standardize text entries by converting these columns' entries to lowercase:
 Vehicle Style
 Market Category
